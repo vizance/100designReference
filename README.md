@@ -1,6 +1,6 @@
 # Design 100 Reference — AI 圖卡風格靈感庫
 
-收錄 100 種設計風格，涵蓋日系經典與國際通用風格。每種風格都附有 AI 生成的圖卡範例與可直接複製的繁體中文風格描述，貼入 Google Gemini 即可生成對應風格的知識型圖卡。
+收錄 100 種設計風格，涵蓋日系經典與國際通用風格。每種風格都附有 AI 生成的圖卡範例與可直接複製的繁體中文風格描述，貼入 ChatGPT 或 Google Gemini 即可生成對應風格的知識型圖卡。
 
 **Live Site**: https://vizance.github.io/100designReference/
 
@@ -10,7 +10,7 @@
 
 1. 瀏覽 100 種風格的實際圖卡範例
 2. 找到喜歡的風格後，一鍵複製風格描述
-3. 將描述貼入 Google Gemini，生成你自己的圖卡
+3. 將描述貼入 ChatGPT 或 Google Gemini，生成你自己的圖卡
 
 ## 風格分類
 
