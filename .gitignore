@@ -2,6 +2,8 @@
 # （公開倉庫只會有 加密後的 index.html、images/、README.md）
 source/
 build/
+build.sh
+MAINTAINER.md
 .staticrypt.json
 node_modules/
 package-lock.json

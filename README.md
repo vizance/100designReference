@@ -32,20 +32,6 @@
 - **圖片放大** — 點擊圖卡預覽可放大檢視
 - **一鍵複製** — 複製繁體中文風格描述，直接貼入 AI 使用
 
-## 技術
+## 取用方式
 
-純前端，無框架依賴。
-
-### 密碼保護（課程學員專屬）
-
-本頁內容已用 [StaticCrypt](https://github.com/robinmoisson/staticrypt) 整份 AES 加密，只有持有課程密碼的學員能解開觀看。公開倉庫裡的 `index.html` 是加密過的亂碼，圖卡名稱、描述、AI 提示詞都不會外洩。
-
-可編輯的原始檔（`source/index.html` 模板、`source/data.js` 內容、`source/batch_prompts.txt`）只保留在本地、不進版控（見 `.gitignore`），請自行備份。
-
-**改內容流程**：
-
-1. 編輯 `source/index.html` 或 `source/data.js`
-2. 跑 `./build.sh`（會提示輸入密碼，或 `./build.sh '密碼'`）→ 重新產生加密版根目錄 `index.html`
-3. `git add -A && git commit && git push`
-
-密碼維護在課程端發給學員，不寫進倉庫。
+本頁為課程學員專屬內容，需輸入課程提供的密碼後觀看。
