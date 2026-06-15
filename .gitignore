@@ -1,0 +1,9 @@
+# 本地保留、不公開：內容原始檔 + 開發檔
+# （公開倉庫只會有 加密後的 index.html、images/、README.md）
+source/
+build/
+.staticrypt.json
+node_modules/
+package-lock.json
+.DS_Store
+.claude/
